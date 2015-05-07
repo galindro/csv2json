@@ -56,3 +56,7 @@ $ zpool list -H -o name | awk '{$1=$1}1' OFS="," |csv2json.py -z -f NAME
 }
 
 ```
+
+#License
+
+GNU GENERAL PUBLIC LICENSE Version 2, June 1991
